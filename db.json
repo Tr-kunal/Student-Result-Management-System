@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "name": "Kunal Singhal",
+      "section": "CB",
+      "marks": 94,
+      "grade": "A+",
+      "id": 4
+    },
+    {
+      "name": "Kartik",
+      "section": "CB",
+      "marks": 85,
+      "grade": "A",
+      "id": 5
+    },
+    {
+      "id": 8,
+      "name": "Abhishek",
+      "section": "CD",
+      "marks": 15,
+      "grade": "F"
+    },
+    {
+      "id": 29,
+      "name": "Manish Bhardwaj",
+      "section": "CB",
+      "marks": 72,
+      "grade": "A"
+    }
+  ]
+}
